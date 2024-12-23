@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Israt Jahan Jisha </h1>
--💕I love transforming ideas into reality through code
-- 🔭 I’m currently working on Next
-- 🔰 I’m currently learning advanced backend development techniques
-- 💬 Ask me about anything <a href="www.linkedin.com/in/israt-jahan-jisha" class="text-blue-500">here</a>
-- 📫 How to reach me: isratjahanfci@gmail.com
--📄  Check Out My <a href="" class="text-blue-500">resume</a>
+<p>💕I love transforming ideas into reality through code</p>
+<p>🔰 I’m currently learning advanced backend development techniques</p>
+<p>💬 Ask me about anything <a href="www.linkedin.com/in/israt-jahan-jisha" class="text-blue-500">here</a></p>
+<p📧 How to reach me: isratjahanfci@gmail.com</p>
+<p📄 Check Out My <a href="" class="text-blue-500">resume</a></p>
+
   
 ### Connect with me:
 <div id="badges">
@@ -34,5 +34,15 @@
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
+
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/israt83)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israt83)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=israt83&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=israt83)  
 
