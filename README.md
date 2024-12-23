@@ -15,13 +15,20 @@
   </a>
 </div>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=javascript,react,tailwind,express,mongodb,firebase,html,css,jwt,git,vscode&perline=5)](https://skillicons.dev)
+### <h3 align="center">Languages and Tools:</h3>
+<div align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=javascript,react,tailwind,express,mongodb,firebase,html,css,jwt,git,vscode&perline=5" alt="Languages and Tools"/>
+  </a>
+</div>
 
 ---
 
-![Israt Jahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=israt83&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israt83&theme=dark)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=israt83&theme=dark)  
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=israt83&show_icons=true&theme=dark" alt="Israt Jahan's GitHub stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israt83&theme=dark" alt="Top Languages"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=israt83&theme=dark" alt="GitHub Streak"/>
+</div>
 
