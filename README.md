@@ -1,26 +1,38 @@
-### Hi there 👋,  I am Israt Jahan
-#### A passionate Front-End Developer from Bangladesh 
-![A passionate Front-End Developer from Bangladesh ](https://media.licdn.com/dms/image/v2/D5616AQGEgknmC5g91g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734605445890?e=1740614400&v=beta&t=L9-8ckKKpzefSDzPlHTO5lYxnA0piIuPtTz9JGPP26I)
-
-🧑‍💻 Assalamu Alaikum! I’m Israt Jahan Jisha, a Front-End Developer and MERN Stack enthusiast passionate about creating immersive, user-centric web experiences.
-
-With strong proficiency in React.js, Tailwind CSS, JavaScript,Express.js and MongoDB, I specialize in building modern, responsive interfaces and scalable full-stack applications. My expertise bridges front-end creativity and back-end logic, allowing me to deliver polished, high-performing solutions.
-
-
-Skills:   REACT / JS / HTML / CSS
-
-- 🌱 I’m currently learning Next.js  
-- 💬 Ask me about https://www.linkedin.com/in/israt-jahan-jisha/ 
-- 📫 How to reach me: isratjahanfci@gmail.com 
-
-
+<h1 align="center">Hi 👋, I'm Israt Jahan Jisha </h1>
+-💕I love transforming ideas into reality through code
+- 🔭 I’m currently working on Next
+- 🔰 I’m currently learning advanced backend development techniques
+- 💬 Ask me about anything <a href="www.linkedin.com/in/israt-jahan-jisha" class="text-blue-500">here</a>
+- 📫 How to reach me: isratjahanfci@gmail.com
+-📄  Check Out My <a href="" class="text-blue-500">resume</a>
   
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/axiftaj">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+   <a href="https://www.instagram.com/axif_taj">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   <a href="https://fb.com/aaxiftaj">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+   <a href="https://twitter.com/axiftaj">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israt83)](https://github.com/anuraghazra/github-readme-stats)
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=israt83&show_icons=true&count_private=true)  
+![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
 
-![GitHub metrics](https://metrics.lecoq.io/israt83)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=israt83)  
+
+<br>
+⭐️ From [axiftaj](https://github.com/axiftaj)
 
