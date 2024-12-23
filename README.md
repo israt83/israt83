@@ -1,6 +1,5 @@
 <div align="center">
-
-  <img src="https://i.ibb.co.com/CMphyt4/Black-Geometric-Corporate-Personal-Profile-Linked-In-Banner.png" border="0"alt="Banner" style="max-width:100%;"/>
+  <img src="https://i.ibb.co/CMphyt4/Black-Geometric-Corporate-Personal-Profile-Linked-In-Banner.png" alt="Banner" style="max-width:100%;"/>
 </div>
 <h1 align="left">Hi 👋, I'm Israt Jahan Jisha</h1>
 
