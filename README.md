@@ -16,63 +16,40 @@
 </div>
 
 ### <h3>Languages and Tools:</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-  <div style="background-color: #F0DB4F; padding: 10px 15px; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40"/><br/>
-    <span style="font-family: Arial, sans-serif; font-weight: bold; color: #323330;">JavaScript</span>
-  </div>
-
-  <div style="background-color: #61DAFB; padding: 10px 15px; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="40"/><br/>
-    <span style="font-family: Arial, sans-serif; font-weight: bold; color: #20232A;">React</span>
-  </div>
-
-  <div style="background-color: #38B2AC; padding: 10px 15px; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40"/><br/>
-    <span style="font-family: Arial, sans-serif; font-weight: bold; color: #FFFFFF;">Tailwind CSS</span>
-  </div>
-
-  <div style="background-color: #000000; padding: 10px 15px; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40"/><br/>
-    <span style="font-family: Arial, sans-serif; font-weight: bold; color: #FFFFFF;">Express.js</span>
-  </div>
-
-  <div style="background-color: #47A248; padding: 10px 15px; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40"/><br/>
-    <span style="font-family: Arial, sans-serif; font-weight: bold; color: #FFFFFF;">MongoDB</span>
-  </div>
-
-  <div style="background-color: #FFCA28; padding: 10px 15px; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40"/><br/>
-    <span style="font-family: Arial, sans-serif; font-weight: bold; color: #000000;">Firebase</span>
-  </div>
-
-  <div style="background-color: #E44D26; padding: 10px 15px; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40"/><br/>
-    <span style="font-family: Arial, sans-serif; font-weight: bold; color: #FFFFFF;">HTML</span>
-  </div>
-
-  <div style="background-color: #2965F1; padding: 10px 15px; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40"/><br/>
-    <span style="font-family: Arial, sans-serif; font-weight: bold; color: #FFFFFF;">CSS</span>
-  </div>
-
-  <div style="background-color: #000000; padding: 10px 15px; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=jwt" alt="JWT" width="40"/><br/>
-    <span style="font-family: Arial, sans-serif; font-weight: bold; color: #FFFFFF;">JWT</span>
-  </div>
-
-  <div style="background-color: #F34F29; padding: 10px 15px; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40"/><br/>
-    <span style="font-family: Arial, sans-serif; font-weight: bold; color: #FFFFFF;">Git</span>
-  </div>
-
-  <div style="background-color: #007ACC; padding: 10px 15px; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="40"/><br/>
-    <span style="font-family: Arial, sans-serif; font-weight: bold; color: #FFFFFF;">VSCode</span>
-  </div>
-
+<div id="languages" align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-teal?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/JWT-gray?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode Badge"/>
+  </a>
 </div>
 
 
