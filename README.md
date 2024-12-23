@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Israt Jahan Jisha</h1>
-<p>💕 I love transforming ideas into reality through code.</p>
-<p>🔰 I’m currently learning advanced backend development techniques.</p>
-<p>💬 Ask me about anything <a href="https://www.linkedin.com/in/israt-jahan-jisha" class="text-blue-500">here</a>.</p>
-<p>📧 How to reach me: isratjahanfci@gmail.com</p>
-<p>📄 Check Out My <a href="" class="text-blue-500">resume</a>.</p>
+<div align="center">
+  <img src="https://www.canva.com/design/DAGaFgj_lqM/Wr3J0e8FXNGNe5yNieTVcQ/edit?utm_content=DAGaFgj_lqM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner" style="max-width:100%;"/>
+</div>
+<h1 align="left">Hi 👋, I'm Israt Jahan Jisha</h1>
+
+<p>Welcome to my GitHub profile! I am passionate about creating user-friendly web applications and bringing innovative ideas to life. With expertise in both frontend and backend technologies, I strive to deliver seamless and efficient solutions.I enjoy collaborating on exciting projects, learning new technologies, and contributing to the tech community. Feel free to explore my repositories to see some of my work and projects.</p>
 
 ### Connect with me:
 <div id="badges">
@@ -15,7 +15,16 @@
   </a>
 </div>
 
-### <h3>Languages and Tools:</h3>
+ 
+
+<p>💕 I love transforming ideas into reality through code.</p>
+<p>🔰 I’m currently learning advanced backend development techniques.</p>
+<p>💬 Ask me about anything <a href="https://www.linkedin.com/in/israt-jahan-jisha" class="text-blue-500">here</a>.</p>
+<p>📧 How to reach me: isratjahanfci@gmail.com</p>
+<p>📄 Check Out My <a href="" class="text-blue-500">resume</a>.</p>
+
+
+### <h3>Developed Using:</h3>
 <div id="languages" align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
@@ -56,10 +65,12 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=israt83&show_icons=true&theme=dark" alt="Israt Jahan's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israt83&theme=dark" alt="Top Languages"/>
-  <br/>
   <img src="https://streak-stats.demolab.com/?user=israt83&theme=dark" alt="GitHub Streak"/>
+    <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=israt83&show_icons=true&theme=dark" alt="Israt Jahan's GitHub stats"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israt83&theme=dark" alt="Top Languages"/>
+
+  
 </div>
 
