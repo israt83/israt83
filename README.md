@@ -22,7 +22,7 @@
 <p>🔰 I’m currently learning advanced backend development techniques.</p>
 <p>💬 Ask me about anything <a href="https://www.linkedin.com/in/israt-jahan-jisha" class="text-blue-500">here</a>.</p>
 <p>📧 How to reach me: isratjahanfci@gmail.com</p>
-<p>📄 Check Out My <a href="" class="text-blue-500">resume</a>.</p>
+<p>📄 Check Out My <a href="https://drive.google.com/file/d/1Zln3LulKz2Q_NmI2Ylc2s_W9VcUdp3Rt/view?usp=sharing" class="text-blue-500">resume</a>.</p>
 
 
 ### <h3>Developed Using:</h3>
